@@ -1,0 +1,43 @@
+{
+    "keyboard_name": "smalltest",
+    "url": "",
+    "maintainer": "qmk",
+    "width": 2,
+    "height": 2,
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {
+                    "label": "CAPS",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "label": "NUM",
+                    "x": 1,
+                    "y": 0
+                },
+                {
+                    "label": "NEXT",
+                    "x": 2,
+                    "y": 0
+                },
+                {
+                    "label": "PLAY",
+                    "x": 0,
+                    "y": 1
+                },
+                {
+                    "label": "STOP",
+                    "x": 1,
+                    "y": 1
+                },
+                {
+                    "label": "BACK",
+                    "x": 2,
+                    "y": 1
+                }
+            ]
+        }
+    }
+}
